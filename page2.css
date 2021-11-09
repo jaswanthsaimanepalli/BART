@@ -1,0 +1,19 @@
+body{
+  background-color: grey;
+}
+div{
+  background-color: white;
+  border:2px solid black;
+  margin:250px 0px;
+  padding-left: 20px;
+  font-size: large;
+  color: black;
+}
+button{
+  margin-left: 1250px ;
+  font-size: large;
+}
+button:hover{
+  background-color: blue;
+  color: white;
+}

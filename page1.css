@@ -1,0 +1,22 @@
+body{
+  background-image: url("bg.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+div{
+  padding:10px 0px 10px 0px ;
+  background-color: lightgrey;
+  margin:64px 400px 0px 400px;
+  text-align: center;
+  font-size: large;
+  color: black;
+}
+button{
+  margin: 0px 650px ;
+  font-size: large;
+}
+button:hover{
+  background-color: blue;
+  color:white
+}

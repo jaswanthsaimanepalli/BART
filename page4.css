@@ -1,0 +1,27 @@
+body{
+  background-color: grey;
+}
+.bigger{
+  background-color: white;
+  border:2px solid black;
+  margin-top:200px;
+  padding-left: 20px;
+  font-size: large;
+  color: black;
+}
+div.smaller{
+  background-color: white;
+  margin: 2px solid black;
+}
+div.smaller a{
+  border: 1px solid black;
+  padding: 5px 100px;
+  color: black;
+  font-size: large;
+  text-decoration: none;
+  background-color: lightgray;
+}
+div.smaller a:hover{
+  background-color: blue;
+  color: white;
+}
